@@ -7,7 +7,7 @@
 [![Donate](https://raw.githubusercontent.com/catalyst-team/catalyst-pics/master/third_party_pics/patreon.png)](https://www.patreon.com/catalyst_team)
 
 ## Contents
-* **[Tutorials](#tutorials-and-pipelines)**
+* **[Tutorials and Pipelines](#tutorials-and-pipelines)**
 * **[Tools](#tools)**
 * **[Repositories](#repositories)**
 * **[Videos and Lectures](#videos-and-lectures)**
@@ -39,4 +39,4 @@
 1. [Catalyst-team YouTube channel](https://www.youtube.com/channel/UC39Z1Cwr9n8DVpuXcsyi9FQ)
 
 ## Talks and Conferences
-1. [ML-REPA #2 (rus)](https://youtu.be/SGawkIjBoGE?t=563) – Wokrshop: Dive into Catalyst on [ML-REPA](http://ml-repa.ru/en)
+1. [ML-REPA #2 (rus)](https://youtu.be/SGawkIjBoGE?t=563) and [slides (eng)](https://docs.google.com/presentation/d/10dJqTGEPxk_gYKCZZdFqHHhuPUwwKNYdRhvuNphpy5E/edit?usp=sharing) – Wokrshop: Dive into Catalyst on [ML-REPA](http://ml-repa.ru/en)
