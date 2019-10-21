@@ -1,25 +1,26 @@
 # Awesome [Catalyst](https://github.com/catalyst-team/catalyst) list
 
-![Catalyst logo](https://raw.githubusercontent.com/catalyst-team/catalyst-pics/master/pics/catalyst_logo.png)
+[![Catalyst logo](https://raw.githubusercontent.com/catalyst-team/catalyst-pics/master/pics/catalyst_logo.png)](https://github.com/catalyst-team/catalyst)
 [![Telegram](./pics/telegram.svg)](https://t.me/catalyst_team)
 [![Gitter](https://badges.gitter.im/catalyst-team/community.svg)](https://gitter.im/catalyst-team/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Slack](./pics/slack.svg)](https://opendatascience.slack.com/messages/CGK4KQBHD)
 [![Donate](https://raw.githubusercontent.com/catalyst-team/catalyst-pics/master/third_party_pics/patreon.png)](https://www.patreon.com/catalyst_team)
 
 ## Contents
-* **[Tutorials](#tutorials)**
+* **[Tutorials](#tutorials-and-pipelines)**
 * **[Tools](#tools)**
 * **[Repositories](#repositories)**
 * **[Videos and Lectures](#videos-and-lectures)**
 * **[Talks and Conferences](#talks-and-conferences)**
 
-## Tutorials
+## Tutorials and Pipelines
 1. [Catalyst-info](https://github.com/catalyst-team/catalyst-info) – blog with a lot of useful catalyst tips
 1. [Classification tutorial with Notebook API](https://github.com/catalyst-team/catalyst/blob/master/examples/notebooks/classification-tutorial.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/catalyst-team/catalyst/blob/master/examples/notebooks/classification-tutorial.ipynb)
 1. [Segmentation tutorial with Notebook API](https://github.com/catalyst-team/catalyst/blob/master/examples/notebooks/segmentation-tutorial.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/catalyst-team/catalyst/blob/master/examples/notebooks/segmentation-tutorial.ipynb)
 1. [Table data regression with Notebook API](https://github.com/catalyst-team/catalyst/blob/master/examples/notebooks/table-data-tutorial.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/catalyst-team/catalyst/blob/master/examples/notebooks/table-data-tutorial.ipynb)
 1. [Classification pipeline with Config API](https://github.com/catalyst-team/classification)
 1. [Segmentation pipeline with Config API](https://github.com/catalyst-team/segmentation)
+1. [Bert NLP-classification pipeline with Config API](https://github.com/catalyst-team/bert)
 
 ## Tools
 1. [MLComp](https://github.com/catalyst-team/mlcomp) – distributed DAG framework for machine learning with UI
