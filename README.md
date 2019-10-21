@@ -15,9 +15,11 @@
 
 ## Tutorials
 1. [Catalyst-info](https://github.com/catalyst-team/catalyst-info) – blog with a lot of useful catalyst tips
-1. [Classification tutorial with Notebook API](./notebooks/classification-tutorial.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/catalyst-team/catalyst/blob/master/examples/notebooks/classification-tutorial.ipynb)
-1. [Segmentation tutorial with Notebook API](notebooks/segmentation-tutorial.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/catalyst-team/catalyst/blob/master/examples/notebooks/segmentation-tutorial.ipynb)
-1. [Table data regression with Notebook API](./notebooks/table-data-tutorial.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/catalyst-team/catalyst/blob/master/examples/notebooks/table-data-tutorial.ipynb)
+1. [Classification tutorial with Notebook API](https://github.com/catalyst-team/catalyst/blob/master/examples/notebooks/classification-tutorial.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/catalyst-team/catalyst/blob/master/examples/notebooks/classification-tutorial.ipynb)
+1. [Segmentation tutorial with Notebook API](https://github.com/catalyst-team/catalyst/blob/master/examples/notebooks/segmentation-tutorial.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/catalyst-team/catalyst/blob/master/examples/notebooks/segmentation-tutorial.ipynb)
+1. [Table data regression with Notebook API](https://github.com/catalyst-team/catalyst/blob/master/examples/notebooks/table-data-tutorial.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/catalyst-team/catalyst/blob/master/examples/notebooks/table-data-tutorial.ipynb)
+1. [Classification pipeline with Config API](https://github.com/catalyst-team/classification)
+1. [Segmentation pipeline with Config API](https://github.com/catalyst-team/segmentation)
 
 ## Tools
 1. [MLComp](https://github.com/catalyst-team/mlcomp) – distributed DAG framework for machine learning with UI
