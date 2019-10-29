@@ -21,6 +21,7 @@
 1. [Classification pipeline with Config API](https://github.com/catalyst-team/classification)
 1. [Segmentation pipeline with Config API](https://github.com/catalyst-team/segmentation)
 1. [Bert NLP-classification pipeline with Config API](https://github.com/catalyst-team/bert)
+1. [Notebook API tutorial for segmentation in Understanding Clouds from Satellite Images Competition](https://www.kaggle.com/artgor/segmentation-in-pytorch-using-convenient-tools/)
 
 ## Tools
 1. [MLComp](https://github.com/catalyst-team/mlcomp) – distributed DAG framework for machine learning with UI
