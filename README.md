@@ -37,7 +37,8 @@
 1. [Segmentation pipeline with Config API](https://github.com/catalyst-team/segmentation)
 1. [Bert NLP-classification pipeline with Config API](https://github.com/catalyst-team/bert)
 1. [Notebook API tutorial for segmentation in Understanding Clouds from Satellite Images Competition](https://www.kaggle.com/artgor/segmentation-in-pytorch-using-convenient-tools/)
-1. [Hierarchical attention for sentiment classification with visualization](https://github.com/neuromation/ml-recipe-hier-attention) using [Neuromation platform](https://neu.ro/platform/).
+1. [Hierarchical attention for sentiment classification with visualization](https://github.com/neuromation/ml-recipe-hier-attention) using [neu.ro](https://neu.ro/platform/) platform.
+1. [Pediatric bone age assessment](https://github.com/neuromation/ml-recipe-bone-age) using [neu.ro](https://neu.ro/platform/) platform.
 
 ## Tools
 1. [MLComp](https://github.com/catalyst-team/mlcomp) – distributed DAG framework for machine learning with UI
