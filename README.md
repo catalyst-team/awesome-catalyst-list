@@ -73,6 +73,7 @@
 1. [Helios](http://helios.to)
 1. [Hpcdlab](https://www.hpcdlab.com)
 1. [Neuromation](https://neuromation.io)
+1. [Poteha Labs](https://potehalabs.com/en/)
 1. [Provectus](https://provectus.com)
 
 ## Supported by
