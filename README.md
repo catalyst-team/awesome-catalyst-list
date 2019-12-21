@@ -27,6 +27,8 @@
 * **[Repositories](#repositories)**
 * **[Videos and Lectures](#videos-and-lectures)**
 * **[Talks and Conferences](#talks-and-conferences)**
+* **[Trusted by](#trusted-by)**
+* **[Supported by](#supported-by)**
 
 ## Tutorials and Pipelines
 1. [Catalyst-info](https://github.com/catalyst-team/catalyst-info) – blog with a lot of useful catalyst tips
@@ -42,7 +44,7 @@
 
 ## Tools
 1. [MLComp](https://github.com/catalyst-team/mlcomp) – distributed DAG framework for machine learning with UI
-1.  [Catalyst.RL](https://github.com/catalyst-team/catalyst-rl-framework) – A Distributed Framework for Reproducible RL Research
+1. [Catalyst.RL](https://github.com/catalyst-team/catalyst-rl-framework) – A Distributed Framework for Reproducible RL Research
 
 ## Repositories
 1. [NeurIPS 2018: AI for Prosthetics Challenge](https://github.com/Scitator/neurips-18-prosthetics-challenge) – 3rd place solution
@@ -58,10 +60,21 @@
 
 ## Talks and Conferences
 1. [Wokrshop: Dive into Catalyst (rus)](https://youtu.be/SGawkIjBoGE?t=563) and [slides (eng)](https://docs.google.com/presentation/d/10dJqTGEPxk_gYKCZZdFqHHhuPUwwKNYdRhvuNphpy5E/edit?usp=sharing) at [ML-REPA](http://ml-repa.ru/en)
-2. [Catalyst.RL – reproducible RL research framework](https://docs.google.com/presentation/d/1U6VWIwQnQDGtu6a1x61tt3AlxCJ1-A1EYKd8lR9tKos/edit?usp=sharing) at [Stachka](https://nastachku.ru/archive/2019_innopolis/index.php?dispatch=products.view&product_id=3650)
-3. [Catalyst.DL – reproducible DL research framework (rus)](https://youtu.be/EfG8iwFNdWg) and [slides (eng)](https://docs.google.com/presentation/d/1TL7N_H31zDFShVbKzLfMC3DYw4e1psj6ScDN8spKQlk/edit?usp=sharing) at [RIF](http://rifvrn.ru/program/catalyst-dl-fast-reproducible-dl-41.html)
-4. [Catalyst.DL – reproducible DL research framework (rus)](https://youtu.be/7xyMP_5eA8c?t=8964) and [slides (eng)](https://docs.google.com/presentation/d/1XGubfTWvpiJrMyKNx2G6GtAq68y2__sDmx30eSdSRZs/edit?usp=sharing) at [AI-Journey](https://ai-journey.ru/conference-moscow/broadcast?page=2&per-page=12)
-5. [Catalyst.DL – fast & reproducible DL](https://docs.google.com/presentation/d/1fbF4PMl092kIdjJTw3olR3wI2cl_P2ttN3c9-WTh1gA/edit?usp=sharing) at [Datastart](https://datastart.ru/msk-autumn-2019/)
-6. [NeurIPS 2019: Learn to Move - Walk Around](https://www.youtube.com/watch?v=PprDcJHrFdg&feature=youtu.be&t=4020) and [slides (eng)](https://docs.google.com/presentation/d/1g4g_Rxp9M3xAHwpp_hNzC87L9Gvum3H09g2DIQn1Taw/edit?usp=sharing) at RL reading group Meetup
-7. [Catalyst – accelerated DL & RL (rus)](https://youtu.be/Rmo2rx5V3v8?t=77) and [slides (eng)](https://docs.google.com/presentation/d/1xMZMjSwJfM5mZMK7pHp6hVI0FxPyZOpRtBZ0J2l1AaY/edit?fbclid=IwAR1q4XJVqYdD-a5oO2n68Y4xHvChIeOSjCSmlUYqrjIzneYpehzF8PiNdMc#slide=id.g75815b5293_0_202) at [Facebook Developer Circle: Moscow | ML & AI Meetup](https://www.facebook.com/groups/475428499888062/)
-8. [Learn to Move - Walk Around 2nd place solution](https://docs.google.com/presentation/d/14UzYAURBulLjuCbQRnNeROhZ74h51-o460DPTkKMrwo/edit?usp=sharing) at NeurIPS competition track
+1. [Catalyst.RL – reproducible RL research framework](https://docs.google.com/presentation/d/1U6VWIwQnQDGtu6a1x61tt3AlxCJ1-A1EYKd8lR9tKos/edit?usp=sharing) at [Stachka](https://nastachku.ru/archive/2019_innopolis/index.php?dispatch=products.view&product_id=3650)
+1. [Catalyst.DL – reproducible DL research framework (rus)](https://youtu.be/EfG8iwFNdWg) and [slides (eng)](https://docs.google.com/presentation/d/1TL7N_H31zDFShVbKzLfMC3DYw4e1psj6ScDN8spKQlk/edit?usp=sharing) at [RIF](http://rifvrn.ru/program/catalyst-dl-fast-reproducible-dl-41.html)
+1. [Catalyst.DL – reproducible DL research framework (rus)](https://youtu.be/7xyMP_5eA8c?t=8964) and [slides (eng)](https://docs.google.com/presentation/d/1XGubfTWvpiJrMyKNx2G6GtAq68y2__sDmx30eSdSRZs/edit?usp=sharing) at [AI-Journey](https://ai-journey.ru/conference-moscow/broadcast?page=2&per-page=12)
+1. [Catalyst.DL – fast & reproducible DL](https://docs.google.com/presentation/d/1fbF4PMl092kIdjJTw3olR3wI2cl_P2ttN3c9-WTh1gA/edit?usp=sharing) at [Datastart](https://datastart.ru/msk-autumn-2019/)
+1. [NeurIPS 2019: Learn to Move - Walk Around](https://www.youtube.com/watch?v=PprDcJHrFdg&feature=youtu.be&t=4020) and [slides (eng)](https://docs.google.com/presentation/d/1g4g_Rxp9M3xAHwpp_hNzC87L9Gvum3H09g2DIQn1Taw/edit?usp=sharing) at RL reading group Meetup
+1. [Catalyst – accelerated DL & RL (rus)](https://youtu.be/Rmo2rx5V3v8?t=77) and [slides (eng)](https://docs.google.com/presentation/d/1xMZMjSwJfM5mZMK7pHp6hVI0FxPyZOpRtBZ0J2l1AaY/edit?fbclid=IwAR1q4XJVqYdD-a5oO2n68Y4xHvChIeOSjCSmlUYqrjIzneYpehzF8PiNdMc#slide=id.g75815b5293_0_202) at [Facebook Developer Circle: Moscow | ML & AI Meetup](https://www.facebook.com/groups/475428499888062/)
+1. [Learn to Move - Walk Around 2nd place solution](https://docs.google.com/presentation/d/14UzYAURBulLjuCbQRnNeROhZ74h51-o460DPTkKMrwo/edit?usp=sharing) at NeurIPS competition track
+
+## Trusted by
+1. [Awecom](https://www.awecom.com)
+1. [Helios](http://helios.to)
+1. [Hpcdlab](https://www.hpcdlab.com)
+1. [Neuromation](https://neuromation.io)
+1. [Provectus](https://provectus.com)
+
+## Supported by
+1. [HostKey](https://www.hostkey.com)
+1. [MIPT](https://mipt.ru)
