@@ -73,11 +73,13 @@
 1. [Awecom](https://www.awecom.com)
 1. [Helios](http://helios.to)
 1. [Hpcdlab](https://www.hpcdlab.com)
+1. Researchers@[Moscow Institute of Physics and Technology](https://mipt.ru/english/)
 1. [Neuromation](https://neuromation.io)
 1. [Poteha Labs](https://potehalabs.com/en/)
 1. [Provectus](https://provectus.com)
+1. Researchers@[Skolkovo Institute of Science and Technology](https://www.skoltech.ru/en)
 1. Researchers@[Yandex.Research](https://research.yandex.com)
 
 ## Supported by
 1. [HostKey](https://www.hostkey.com)
-1. [MIPT](https://mipt.ru)
+1. [Moscow Institute of Physics and Technology](https://mipt.ru/english/)
