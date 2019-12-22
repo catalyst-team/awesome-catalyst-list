@@ -67,6 +67,7 @@
 1. [NeurIPS 2019: Learn to Move - Walk Around](https://www.youtube.com/watch?v=PprDcJHrFdg&feature=youtu.be&t=4020) and [slides (eng)](https://docs.google.com/presentation/d/1g4g_Rxp9M3xAHwpp_hNzC87L9Gvum3H09g2DIQn1Taw/edit?usp=sharing) at RL reading group Meetup
 1. [Catalyst – accelerated DL & RL (rus)](https://youtu.be/Rmo2rx5V3v8?t=77) and [slides (eng)](https://docs.google.com/presentation/d/1xMZMjSwJfM5mZMK7pHp6hVI0FxPyZOpRtBZ0J2l1AaY/edit?fbclid=IwAR1q4XJVqYdD-a5oO2n68Y4xHvChIeOSjCSmlUYqrjIzneYpehzF8PiNdMc#slide=id.g75815b5293_0_202) at [Facebook Developer Circle: Moscow | ML & AI Meetup](https://www.facebook.com/groups/475428499888062/)
 1. [Learn to Move - Walk Around 2nd place solution](https://docs.google.com/presentation/d/14UzYAURBulLjuCbQRnNeROhZ74h51-o460DPTkKMrwo/edit?usp=sharing) at NeurIPS competition track
+1. [Open Source ML 2019 edition](https://docs.google.com/presentation/d/1A-kwek7USA-j2Nn4n8PmLUQ1PdeUzkkViwXST7RyL-w/edit?usp=sharing) at [Datafest.elka](https://datafest.ru/elka/)
 
 ## Trusted by
 1. [Awecom](https://www.awecom.com)
