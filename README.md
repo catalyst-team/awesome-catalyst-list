@@ -76,6 +76,7 @@
 1. [Neuromation](https://neuromation.io)
 1. [Poteha Labs](https://potehalabs.com/en/)
 1. [Provectus](https://provectus.com)
+1. Researchers@[Yandex.Research](https://research.yandex.com)
 
 ## Supported by
 1. [HostKey](https://www.hostkey.com)
