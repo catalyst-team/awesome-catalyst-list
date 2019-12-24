@@ -41,7 +41,7 @@
 1. [Notebook API tutorial for segmentation in Understanding Clouds from Satellite Images Competition](https://www.kaggle.com/artgor/segmentation-in-pytorch-using-convenient-tools/)
 1. [Hierarchical attention for sentiment classification with visualization](https://github.com/neuromation/ml-recipe-hier-attention)
 1. [Pediatric bone age assessment](https://github.com/neuromation/ml-recipe-bone-age)
-1. [From Jupiter Api to Config Api](https://github.com/Bekovmi/Segmentation_tutorial)
+1. [From Notebook API to Config API](https://github.com/Bekovmi/Segmentation_tutorial)
 
 ## Tools
 1. [MLComp](https://github.com/catalyst-team/mlcomp) – distributed DAG framework for machine learning with UI
