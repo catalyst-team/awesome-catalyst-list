@@ -73,7 +73,7 @@
 ## Trusted by
 1. [Awecom](https://www.awecom.com)
 1. [Helios](http://helios.to)
-1. [Hpcdlab](https://www.hpcdlab.com)
+1. [HPCD Lab](https://www.hpcdlab.com)
 1. Researchers@[Moscow Institute of Physics and Technology](https://mipt.ru/english/)
 1. [Neuromation](https://neuromation.io)
 1. [Poteha Labs](https://potehalabs.com/en/)
