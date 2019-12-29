@@ -79,8 +79,8 @@
 1. [Poteha Labs](https://potehalabs.com/en/)
 1. [Provectus](https://provectus.com)
 1. Researchers@[Skolkovo Institute of Science and Technology](https://www.skoltech.ru/en)
-1. Researchers@[Yandex.Research](https://research.yandex.com)
 1. [SoftConstruct](https://www.softconstruct.io/)
+1. Researchers@[Yandex.Research](https://research.yandex.com)
 
 ## Supported by
 1. [HostKey](https://www.hostkey.com)
