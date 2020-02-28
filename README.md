@@ -73,7 +73,7 @@
 ## Trusted by
 1. [Awecom](https://www.awecom.com)
 1. Researchers@[Center for Translational Research in Neuroimaging and Data Science (TReNDS)](https://trendscenter.org)
-1. Researchers@[Emory University](www.emory.edu)
+1. Researchers@[Emory University](https://www.emory.edu)
 1. Researchers@[Georgia Institute of Technology](https://www.gatech.edu)
 1. Researchers@[Georgia State University](https://www.gsu.edu)
 1. [Helios](http://helios.to)
