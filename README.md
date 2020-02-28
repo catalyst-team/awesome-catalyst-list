@@ -72,8 +72,13 @@
 
 ## Trusted by
 1. [Awecom](https://www.awecom.com)
+1. Researchers@[Center for Translational Research in Neuroimaging and Data Science (TReNDS)](https://trendscenter.org)
+1. Researchers@[Emory University](www.emory.edu)
+1. Researchers@[Georgia Institute of Technology](https://www.gatech.edu)
+1. Researchers@[Georgia State University](https://www.gsu.edu)
 1. [Helios](http://helios.to)
 1. [HPCD Lab](https://www.hpcdlab.com)
+1. [iFarm](https://ifarmproject.com)
 1. [Kinoplan](http://kinoplan.io/)
 1. Researchers@[Moscow Institute of Physics and Technology](https://mipt.ru/english/)
 1. [Neuromation](https://neuromation.io)
